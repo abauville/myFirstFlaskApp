@@ -1,3 +1,9 @@
+# To do
+
+- Make lineplot in the front
+- transfer data to front
+- deploy to heroku
+
 # Build instructions
 
 To bundle with webpack:
